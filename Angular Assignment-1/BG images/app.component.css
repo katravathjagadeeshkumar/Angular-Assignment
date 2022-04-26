@@ -1,0 +1,19 @@
+.one {
+    color: blue;
+}
+.two {
+	font-size: 15px;
+    width: 300px;
+    height: 25px;
+    /* background-color: cyan; */
+    background-image: url('./pic1.jpg');
+}
+.three {
+    color: red;
+}
+.four {
+	font-size: 15px;
+    width: 300px;
+    height: 25px;
+    background-image: url('./pic2.jpg'); 
+}
